@@ -1,0 +1,191 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Workspace_(D)\\C#\\Phan_Mem_Quan_Li_Quan_An\\QuanLyQuanAn\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F7AEC78C-5160-4964-B6CE-48E5B46E1FC4}|QuanLyQuanAn\\QuanLyQuanAn.csproj|d:\\workspace_(d)\\c#\\phan_mem_quan_li_quan_an\\quanlyquanan\\quanlyquanan\\fadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7AEC78C-5160-4964-B6CE-48E5B46E1FC4}|QuanLyQuanAn\\QuanLyQuanAn.csproj|solutionrelative:quanlyquanan\\fadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7AEC78C-5160-4964-B6CE-48E5B46E1FC4}|QuanLyQuanAn\\QuanLyQuanAn.csproj|D:\\Workspace_(D)\\C#\\Phan_Mem_Quan_Li_Quan_An\\QuanLyQuanAn\\quanlyquanan\\ftablemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7AEC78C-5160-4964-B6CE-48E5B46E1FC4}|QuanLyQuanAn\\QuanLyQuanAn.csproj|solutionrelative:quanlyquanan\\ftablemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7AEC78C-5160-4964-B6CE-48E5B46E1FC4}|QuanLyQuanAn\\QuanLyQuanAn.csproj|d:\\workspace_(d)\\c#\\phan_mem_quan_li_quan_an\\quanlyquanan\\quanlyquanan\\faccountprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7AEC78C-5160-4964-B6CE-48E5B46E1FC4}|QuanLyQuanAn\\QuanLyQuanAn.csproj|solutionrelative:quanlyquanan\\faccountprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7AEC78C-5160-4964-B6CE-48E5B46E1FC4}|QuanLyQuanAn\\QuanLyQuanAn.csproj|d:\\workspace_(d)\\c#\\phan_mem_quan_li_quan_an\\quanlyquanan\\quanlyquanan\\ftablemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F7AEC78C-5160-4964-B6CE-48E5B46E1FC4}|QuanLyQuanAn\\QuanLyQuanAn.csproj|solutionrelative:quanlyquanan\\ftablemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7AEC78C-5160-4964-B6CE-48E5B46E1FC4}|QuanLyQuanAn\\QuanLyQuanAn.csproj|D:\\Workspace_(D)\\C#\\Phan_Mem_Quan_Li_Quan_An\\QuanLyQuanAn\\quanlyquanan\\dao\\dataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7AEC78C-5160-4964-B6CE-48E5B46E1FC4}|QuanLyQuanAn\\QuanLyQuanAn.csproj|solutionrelative:quanlyquanan\\dao\\dataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7AEC78C-5160-4964-B6CE-48E5B46E1FC4}|QuanLyQuanAn\\QuanLyQuanAn.csproj|D:\\Workspace_(D)\\C#\\Phan_Mem_Quan_Li_Quan_An\\QuanLyQuanAn\\quanlyquanan\\faccountprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F7AEC78C-5160-4964-B6CE-48E5B46E1FC4}|QuanLyQuanAn\\QuanLyQuanAn.csproj|solutionrelative:quanlyquanan\\faccountprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7AEC78C-5160-4964-B6CE-48E5B46E1FC4}|QuanLyQuanAn\\QuanLyQuanAn.csproj|D:\\Workspace_(D)\\C#\\Phan_Mem_Quan_Li_Quan_An\\QuanLyQuanAn\\quanlyquanan\\dto\\bill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7AEC78C-5160-4964-B6CE-48E5B46E1FC4}|QuanLyQuanAn\\QuanLyQuanAn.csproj|solutionrelative:quanlyquanan\\dto\\bill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7AEC78C-5160-4964-B6CE-48E5B46E1FC4}|QuanLyQuanAn\\QuanLyQuanAn.csproj|D:\\Workspace_(D)\\C#\\Phan_Mem_Quan_Li_Quan_An\\QuanLyQuanAn\\quanlyquanan\\dto\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7AEC78C-5160-4964-B6CE-48E5B46E1FC4}|QuanLyQuanAn\\QuanLyQuanAn.csproj|solutionrelative:quanlyquanan\\dto\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7AEC78C-5160-4964-B6CE-48E5B46E1FC4}|QuanLyQuanAn\\QuanLyQuanAn.csproj|D:\\Workspace_(D)\\C#\\Phan_Mem_Quan_Li_Quan_An\\QuanLyQuanAn\\quanlyquanan\\fadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F7AEC78C-5160-4964-B6CE-48E5B46E1FC4}|QuanLyQuanAn\\QuanLyQuanAn.csproj|solutionrelative:quanlyquanan\\fadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7AEC78C-5160-4964-B6CE-48E5B46E1FC4}|QuanLyQuanAn\\QuanLyQuanAn.csproj|D:\\Workspace_(D)\\C#\\Phan_Mem_Quan_Li_Quan_An\\QuanLyQuanAn\\quanlyquanan\\dao\\accountdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7AEC78C-5160-4964-B6CE-48E5B46E1FC4}|QuanLyQuanAn\\QuanLyQuanAn.csproj|solutionrelative:quanlyquanan\\dao\\accountdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 256,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3fd5e0cc-709a-4f8c-94c3-7f0f8dff5bb2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "fAdmin.cs",
+              "DocumentMoniker": "D:\\Workspace_(D)\\C#\\Phan_Mem_Quan_Li_Quan_An\\QuanLyQuanAn\\QuanLyQuanAn\\fAdmin.cs",
+              "RelativeDocumentMoniker": "QuanLyQuanAn\\fAdmin.cs",
+              "ToolTip": "D:\\Workspace_(D)\\C#\\Phan_Mem_Quan_Li_Quan_An\\QuanLyQuanAn\\QuanLyQuanAn\\fAdmin.cs",
+              "RelativeToolTip": "QuanLyQuanAn\\fAdmin.cs",
+              "ViewState": "AgIAAM8BAAAAAAAAAAAuwLYBAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T05:54:09.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "fAccountProfile.cs",
+              "DocumentMoniker": "D:\\Workspace_(D)\\C#\\Phan_Mem_Quan_Li_Quan_An\\QuanLyQuanAn\\QuanLyQuanAn\\fAccountProfile.cs",
+              "RelativeDocumentMoniker": "QuanLyQuanAn\\fAccountProfile.cs",
+              "ToolTip": "D:\\Workspace_(D)\\C#\\Phan_Mem_Quan_Li_Quan_An\\QuanLyQuanAn\\QuanLyQuanAn\\fAccountProfile.cs",
+              "RelativeToolTip": "QuanLyQuanAn\\fAccountProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T05:50:48.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DataProvider.cs",
+              "DocumentMoniker": "D:\\Workspace_(D)\\C#\\Phan_Mem_Quan_Li_Quan_An\\QuanLyQuanAn\\QuanLyQuanAn\\DAO\\DataProvider.cs",
+              "RelativeDocumentMoniker": "QuanLyQuanAn\\DAO\\DataProvider.cs",
+              "ToolTip": "D:\\Workspace_(D)\\C#\\Phan_Mem_Quan_Li_Quan_An\\QuanLyQuanAn\\QuanLyQuanAn\\DAO\\DataProvider.cs",
+              "RelativeToolTip": "QuanLyQuanAn\\DAO\\DataProvider.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T14:02:49.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "fAccountProfile.cs [Design]",
+              "DocumentMoniker": "D:\\Workspace_(D)\\C#\\Phan_Mem_Quan_Li_Quan_An\\QuanLyQuanAn\\QuanLyQuanAn\\fAccountProfile.cs",
+              "RelativeDocumentMoniker": "QuanLyQuanAn\\fAccountProfile.cs",
+              "ToolTip": "D:\\Workspace_(D)\\C#\\Phan_Mem_Quan_Li_Quan_An\\QuanLyQuanAn\\QuanLyQuanAn\\fAccountProfile.cs [Design]",
+              "RelativeToolTip": "QuanLyQuanAn\\fAccountProfile.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T13:39:27.372Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Bill.cs",
+              "DocumentMoniker": "D:\\Workspace_(D)\\C#\\Phan_Mem_Quan_Li_Quan_An\\QuanLyQuanAn\\QuanLyQuanAn\\DTO\\Bill.cs",
+              "RelativeDocumentMoniker": "QuanLyQuanAn\\DTO\\Bill.cs",
+              "ToolTip": "D:\\Workspace_(D)\\C#\\Phan_Mem_Quan_Li_Quan_An\\QuanLyQuanAn\\QuanLyQuanAn\\DTO\\Bill.cs",
+              "RelativeToolTip": "QuanLyQuanAn\\DTO\\Bill.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T13:34:21.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Account.cs",
+              "DocumentMoniker": "D:\\Workspace_(D)\\C#\\Phan_Mem_Quan_Li_Quan_An\\QuanLyQuanAn\\QuanLyQuanAn\\DTO\\Account.cs",
+              "RelativeDocumentMoniker": "QuanLyQuanAn\\DTO\\Account.cs",
+              "ToolTip": "D:\\Workspace_(D)\\C#\\Phan_Mem_Quan_Li_Quan_An\\QuanLyQuanAn\\QuanLyQuanAn\\DTO\\Account.cs",
+              "RelativeToolTip": "QuanLyQuanAn\\DTO\\Account.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T13:34:09.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "fAdmin.cs [Design]",
+              "DocumentMoniker": "D:\\Workspace_(D)\\C#\\Phan_Mem_Quan_Li_Quan_An\\QuanLyQuanAn\\QuanLyQuanAn\\fAdmin.cs",
+              "RelativeDocumentMoniker": "QuanLyQuanAn\\fAdmin.cs",
+              "ToolTip": "D:\\Workspace_(D)\\C#\\Phan_Mem_Quan_Li_Quan_An\\QuanLyQuanAn\\QuanLyQuanAn\\fAdmin.cs [Design]",
+              "RelativeToolTip": "QuanLyQuanAn\\fAdmin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T13:15:34.785Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "fTableManager.cs",
+              "DocumentMoniker": "D:\\Workspace_(D)\\C#\\Phan_Mem_Quan_Li_Quan_An\\QuanLyQuanAn\\QuanLyQuanAn\\fTableManager.cs",
+              "RelativeDocumentMoniker": "QuanLyQuanAn\\fTableManager.cs",
+              "ToolTip": "D:\\Workspace_(D)\\C#\\Phan_Mem_Quan_Li_Quan_An\\QuanLyQuanAn\\QuanLyQuanAn\\fTableManager.cs",
+              "RelativeToolTip": "QuanLyQuanAn\\fTableManager.cs",
+              "ViewState": "AgIAAPUAAAAAAAAAAAAAwK8AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T04:53:26.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "fTableManager.cs [Design]",
+              "DocumentMoniker": "D:\\Workspace_(D)\\C#\\Phan_Mem_Quan_Li_Quan_An\\QuanLyQuanAn\\QuanLyQuanAn\\fTableManager.cs",
+              "RelativeDocumentMoniker": "QuanLyQuanAn\\fTableManager.cs",
+              "ToolTip": "D:\\Workspace_(D)\\C#\\Phan_Mem_Quan_Li_Quan_An\\QuanLyQuanAn\\QuanLyQuanAn\\fTableManager.cs [Design]",
+              "RelativeToolTip": "QuanLyQuanAn\\fTableManager.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T04:51:48.75Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AccountDAO.cs",
+              "DocumentMoniker": "D:\\Workspace_(D)\\C#\\Phan_Mem_Quan_Li_Quan_An\\QuanLyQuanAn\\QuanLyQuanAn\\DAO\\AccountDAO.cs",
+              "RelativeDocumentMoniker": "QuanLyQuanAn\\DAO\\AccountDAO.cs",
+              "ToolTip": "D:\\Workspace_(D)\\C#\\Phan_Mem_Quan_Li_Quan_An\\QuanLyQuanAn\\QuanLyQuanAn\\DAO\\AccountDAO.cs",
+              "RelativeToolTip": "QuanLyQuanAn\\DAO\\AccountDAO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T00:03:30.466Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
